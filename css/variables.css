@@ -3,4 +3,6 @@
   --pink: #f700f6;
   --mint: #bdf1f1;
   --horizontal-space: 20px;
+  --border: 1px solid rgba(0, 0, 0, 0.2);
+  --text-grey: rgba(0, 0, 0, 0.4);
 }

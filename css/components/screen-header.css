@@ -14,4 +14,15 @@
 }
 .screen-header__icons span {
   margin-left: 25px;
+  position: relative;
+}
+
+.screen-header__more {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  position: absolute;
+  right: 15px;
+  top: 40px;
 }
