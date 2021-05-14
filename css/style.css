@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Itim&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap");
 
 @import "reset.css";
 @import "variables.css";
@@ -21,11 +21,13 @@
 @import "screens/chat.css";
 
 body {
-  font-family: "Itim", cursive;
+  font-family: "Roboto", sans-serif;
   color: #2e363e;
   height: 110vh;
+  background: linear-gradient(#3324b0, #9351a6);
 }
 
 .main-screen {
   padding: 0px var(--horizontal-space);
+  background-color: white;
 }
