@@ -77,3 +77,7 @@
   color: white;
   opacity: 0.5;
 }
+
+.log-in__page {
+  background: linear-gradient(#3324b0, #9351a6);
+}
