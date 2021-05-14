@@ -20,6 +20,17 @@
   z-index: 1;
 }
 
+@keyframes fadein {
+  from {
+    transform: translateY(30px);
+    opacity: 0;
+  }
+  to {
+    transform: none;
+    opacity: 1;
+  }
+}
+
 .main-chat {
   margin-top: 120px;
   display: flex;
@@ -41,6 +52,7 @@
   width: 100%;
   display: flex;
   margin-bottom: 30px;
+  animation: fadein 1s linear;
 }
 
 .message-row img {
