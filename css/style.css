@@ -23,7 +23,9 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #2e363e;
-  height: 130vh;
+  height: 110vh;
+  bottom: 70px;
+  background-color: var(--background);
 }
 
 .main-screen {

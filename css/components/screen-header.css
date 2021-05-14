@@ -11,10 +11,12 @@
 .screen-header__title {
   font-size: 32px;
   font-weight: 600;
+  color: white;
 }
 .screen-header__icons span {
   margin-left: 25px;
   position: relative;
+  color: var(--white);
 }
 
 .screen-header__more {

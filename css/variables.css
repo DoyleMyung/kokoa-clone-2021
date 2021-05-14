@@ -3,9 +3,12 @@
   --pink: #f700f6;
   --mint: #bdf1f1;
   --horizontal-space: 20px;
-  --border: 1px solid rgba(0, 0, 0, 0.2);
+  --border: 1px solid rgba(255, 255, 255, 0.2);
   --text-grey: rgba(0, 0, 0, 0.4);
   --blue: #4623fe;
   --back-color: #3324b0;
   --back-color2: #9351a6;
+  --background: #2f2637;
+  --white: rgba(255, 255, 255, 0.7);
+  --green: #02cf5b;
 }
